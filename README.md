@@ -1,59 +1,67 @@
-# Resume template
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/Bootstrap-Resume-CV-Template-for-Developers.jpg" alt="Bootstrap 4 Resume/CV Template for Developers" /></a>
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+## Theme Details & Demo
 
-![img](images/screenshot.png)
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/
 
-## Docs
+Orbit is a free Bootstrap 4 resume/CV template designed for developers. Looking to **impress your potential employer**? Get this template and you can **send an online resume/CV** instead of a word/pdf attachment. You can **easily make different versions of your online resume/CV** to tailor for different job positions too. 
 
-### Running locally
+The template comes with **6 colour schemes**. The source SCSS files are included so it’s quick and easy to change the styling and colour scheme.
 
-To test locally, run the following in your terminal:
+## Author & License
 
-1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
-### Customizing
+If you'd like to **use the template without the attribution**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/)
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+#### Follow Xiaoying
 
-#### Options/configuration
+[Twitter](https://twitter.com/3rdwave_themes)
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-[...write these out...]
+[Dribbble](https://dribbble.com/Xiaoying)
 
-#### Editing content
+[Medium](https://medium.com/@3rdwave_themes)
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
 
-### Publishing to GitHub Pages for free
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
+## Latest Version
+**v2.0** - 15 July 2018
 
-### Configuring with your own domain name
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
 
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
+## Colour Schemes
 
-### Themes
+#### Colour 1 (orbit-1.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300" alt="Orbit color 1" />
 
-Right now resume-template only has one theme. More are coming :soon: though. :heart:
+#### Colour 2 (orbit-2.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" width="300" alt="Orbit color 2" />
 
-## Roadmap
+#### Colour 3 (orbit-3.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" width="300" alt="Orbit color 3" />
 
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
+#### Colour 4 (orbit-4.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300" alt="Orbit color 4" />
 
-## Contributing
+#### Colour 5 (orbit-5.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg" width="300" alt="Orbit color 5" />
 
-If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
+#### Colour 6 (orbit-6.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300" alt="Orbit color 6" />
 
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
-2. Fork the project, make changes, and submit a pull request
+## Features
 
-## License
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 4
+-  **SCSS** source files included
+-  6 Colour Schemes
+-  1000+ FontAwesome 5 icons
+-  Compatible with all modern browsers
 
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
-
-Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+## Credits
+- [Bootstrap](http://getbootstrap.com/)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
